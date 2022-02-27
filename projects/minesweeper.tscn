@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="root" type="Node2D"]
+
+[node name="TileMap" type="TileMap" parent="."]
+format = 1
+
+[node name="board" type="Polygon2D" parent="."]
+position = Vector2( -433, -199 )
+color = Color( 1, 0, 0, 1 )
+polygon = PoolVector2Array( 1060, 371, 538, 207, 456, 435, 892, 511 )

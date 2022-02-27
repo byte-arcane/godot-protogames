@@ -3,6 +3,7 @@
 .import/
 export.cfg
 export_presets.cfg
+Godot_v3.4.3-stable_win64.exe
 
 # Mono-specific ignores
 .mono/
